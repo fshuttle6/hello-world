@@ -7,5 +7,5 @@
 </p>
 
 <p>
-<strong>Note to self: don't put css in sytle here.</strong>
+<strong>Note to self: don't put css in style here.</strong>
 </p>
