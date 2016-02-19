@@ -1,5 +1,15 @@
-# hello-world
-A repository, apparantly
-<h1> right, so now... </h1>
-<p> I don't see <strong> why not?! </strong> </p>
-<h2> is this right?</h2>
+<head>
+  <style>
+    h1{
+    color: green;
+    }
+  p{
+  color: brown;
+  }
+  </style>
+</head>
+
+<h1> Hello </h1>
+<p> 
+  It's me
+</p>
